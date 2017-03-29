@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BottomNavgationViewDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_cloud">Cloud</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment3</string>
+    <string name="hello_blank_fragment4">Hello blank fragment4</string>
+
+
+</resources>
